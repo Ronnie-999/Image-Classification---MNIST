@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/mUgQRbhV)
+
 # Installation instructions
 
 This should give an explanation on how to install the library in editable mode inside a Python venv, virtualenv or conda environment. 
